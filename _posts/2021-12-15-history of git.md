@@ -3,6 +3,7 @@ layout: post
 title: "history of git"
 date:   2021-12-15 03:45:00 +0900
 categories: jekyll update
+comments: true
 ---
 
 # 깃의 역사  
