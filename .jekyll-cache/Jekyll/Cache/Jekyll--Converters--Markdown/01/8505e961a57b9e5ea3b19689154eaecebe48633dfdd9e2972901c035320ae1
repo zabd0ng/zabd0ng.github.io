@@ -1,0 +1,10 @@
+I"P<p>Jekyll is a tool for transforming your plain text into static websites and 
+blogs. It is simple, static, and blog-aware. Jekyll uses the 
+<a href="https://shopify.dev/docs/themes/liquid/reference/basics">Liquid</a> templating
+language and has builtin <a href="https://daringfireball.net/projects/markdown/">Markdown</a>
+and <a href="https://en.wikipedia.org/wiki/Textile_(markup_language)">Textile</a> support.</p>
+
+<p>It also ties in nicely to <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+
+<p>Learn more about Jekyll on their <a href="https://jekyllrb.com/">website</a>.</p>
+:ET
