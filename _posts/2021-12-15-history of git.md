@@ -35,3 +35,4 @@ categories: jekyll update
 | git pull | git getch + git merge | git diff 생략 |  
 | git log | commit list (history) | 종료(나가기) q |  
 | git show | 최근 커밋 정보 | git show [로그 일련번호] |  
+| git rm | 파일 삭제(로컬 및 원격repo) | --cached 옵션: 원격 파일만 삭제 |  
